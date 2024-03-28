@@ -1,2 +1,2 @@
-# About Me
+# BlueWind
 Learning to excel
